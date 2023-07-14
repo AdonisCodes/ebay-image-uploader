@@ -1,0 +1,8 @@
+requests
+math
+requests_toolbelt
+imghdr
+struct
+xmltodict
+os
+cv2
